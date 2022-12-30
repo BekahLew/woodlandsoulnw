@@ -1,16 +1,16 @@
 {
   "name": "@frontity/mars-theme",
   "version": "1.6.2",
-  "description": "Nature-Inspired Crafts",
+  "description": "A starter theme for Frontity",
   "keywords": [
     "frontity",
     "frontity-theme"
   ],
-  "homepage": "https://woodlandsoulnw.com",
+  "homepage": "https://frontity.org",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BekahLew/woodlandsoulnw"
+    "url": "https://github.com/frontity/frontity.git"
   },
   "bugs": {
     "url": "https://community.frontity.org"
