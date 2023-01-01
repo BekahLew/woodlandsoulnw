@@ -2,9 +2,9 @@ const settings = {
   "name": "woodlandsoulnw",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "url": "https://woodlandsoulnw.com",
+      "title": "Woodland Soul NW",
+      "description": "Nature-Inspired Crafts"
     }
   },
   "packages": [
@@ -18,20 +18,20 @@ const settings = {
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Shop",
+              "/shop/"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "Blog",
+              "/blog/"
             ],
             [
-              "Japan",
-              "/tag/japan/"
+              "Testimonials",
+              "/testimonials/"
             ],
             [
-              "About Us",
-              "/about-us/"
+              "Contact",
+              "/contact/"
             ]
           ],
           "featured": {
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "api": "https://public-api.wordpress.com/wp/v2/sites/woodlandsoulnw.com"
         }
       }
     },
